@@ -1,5 +1,6 @@
 # alidns
-这个程序可以方便地操作阿里云的云解析资源
+这个程序可以方便地操作阿里云的云解析资源 <br>
+```
 Help :
 Aliyun DNS Record Update Tools.
 
@@ -31,3 +32,4 @@ Examples:
  alidns config 12341234 12341234 forks.club
  alidns add -r www -v 127.0.0.1 -t A --ttl 600 -l telecom
  alidns status -r www -s disable
+```
