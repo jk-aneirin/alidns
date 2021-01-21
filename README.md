@@ -33,3 +33,5 @@ Examples:
  alidns add -r www -v 127.0.0.1 -t A --ttl 600 -l telecom
  alidns status -r www -s disable
 ```
+该程序在“https://github.com/luoyeah/alidns” 的基础上加了一些功能，如disable DNS记录，添加了线路的相关配置。<br>
+感谢luoyeah，如有侵权，请告知！
